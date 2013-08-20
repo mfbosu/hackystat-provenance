@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/214/trunk
+END
+javancss.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/209/trunk/javancss.build.xml
+END
+findbugs.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/209/trunk/findbugs.build.xml
+END
+verify.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/209/trunk/verify.build.xml
+END
+hudson.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/209/trunk/hudson.build.xml
+END
+jar.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/210/trunk/jar.build.xml
+END
+emma.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/209/trunk/emma.build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/209/trunk/.project
+END
+dist.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/209/trunk/dist.build.xml
+END
+pmd.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/209/trunk/pmd.build.xml
+END
+checkstyle.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/209/trunk/checkstyle.build.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/209/trunk/build.properties
+END
+common.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/214/trunk/common.build.xml
+END
+junit.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/209/trunk/junit.build.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/209/trunk/build.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/209/trunk/ivysettings.xml
+END
+dependencyfinder.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/209/trunk/dependencyfinder.build.xml
+END
+javadoc.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/209/trunk/javadoc.build.xml
+END

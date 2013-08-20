@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse
+END
+Resources_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/Resources_ja.properties
+END
+TestEclipseSensorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/TestEclipseSensorConstants.java
+END
+VersionCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/VersionCheck.java
+END
+EclipseSensorI18n.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/EclipseSensorI18n.java
+END
+TestEclipseSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/TestEclipseSensor.java
+END
+EclipseSensorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/EclipseSensorConstants.java
+END
+SensorShellWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/SensorShellWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/package.html
+END
+StateChangeTimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/StateChangeTimerTask.java
+END
+BuffTransTimertask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/BuffTransTimertask.java
+END
+Resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/Resources.properties
+END
+EclipseSensorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/EclipseSensorPlugin.java
+END
+SensorStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/SensorStartup.java
+END
+EclipseSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/EclipseSensor.java
+END

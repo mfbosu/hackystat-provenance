@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/event
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/event/package.html
+END
+EclipseSensorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/event/EclipseSensorEvent.java
+END
+IEclipseSensorEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/event/IEclipseSensorEventListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/preference
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/preference/package.html
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/preference/PreferenceInitializer.java
+END
+SensorPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/preference/SensorPreferencePage.java
+END
+PreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/preference/PreferenceConstants.java
+END

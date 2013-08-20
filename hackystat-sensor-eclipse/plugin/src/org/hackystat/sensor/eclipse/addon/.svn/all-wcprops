@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon
+END
+DebugSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/DebugSensor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/package.html
+END
+JavaStatementMeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/JavaStatementMeter.java
+END
+BreakPointerSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/BreakPointerSensor.java
+END
+JavaStructureChangeDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/JavaStructureChangeDetector.java
+END
+BuildErrorSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/209/trunk/plugin/src/org/hackystat/sensor/eclipse/addon/BuildErrorSensor.java
+END
